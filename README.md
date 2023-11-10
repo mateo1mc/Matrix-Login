@@ -3,3 +3,7 @@ Here is an matrix login page that you can change the background leters as you wa
 To change characters please take a look at **const characters** and modify them as you want.
 
 ![matrix_login_page](https://github.com/mateo1mc/matrix-login/assets/112934949/6093c1ff-58e5-411f-ac84-793132113a77)
+
+Don't forget to share with friends an follow me on:
+[GitHub](https://github.com/mateo1mc)
+[LinkedIn](https://www.linkedin.com/in/mateo1mc/)
